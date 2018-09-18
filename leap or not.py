@@ -1,4 +1,4 @@
-year=2ooo
+year=2000
 if (year 5 4)==0:
 if (year % 100) == 0:
 if (year % 400) == 0:
